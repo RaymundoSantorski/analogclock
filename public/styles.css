@@ -15,8 +15,20 @@ body{
 }
 
 .clock{
+    display: block;
     width: 50vw;
     height: 50vw;
     border: 5px solid white;
     border-radius: 50%;
+}
+
+.hand{
+    position: relative;
+    width: 25vw;
+    height: 2px;
+    background-color: white;
+    top: 50%;
+    transform-origin: 100%;
+    transform: rotate(90deg);
+    box-shadow: 1px 1px 1px rgba(255, 255, 255, 0.5);
 }
