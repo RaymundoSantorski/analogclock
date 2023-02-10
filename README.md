@@ -8,4 +8,5 @@ Reloj digital hecho unicamente con html, css y javascript
     - La manecilla más ancha y más corta se usa para representar las horas
 - Utiliza un formato de 12 horas 
 - La animación de las manecillas fluye completamente y no tiene saltos inesperados (e.g. al llegar a 60 segundos no se regresa la animación)
-!(Screenshot de muestra)[./public/screenshot.png]
+
+![Screenshot de muestra](./public/screenshot.png)
