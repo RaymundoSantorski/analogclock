@@ -24,11 +24,26 @@ body{
 
 .hand{
     position: relative;
-    width: 25vw;
-    height: 2px;
     background-color: white;
     top: 50%;
     transform-origin: 100%;
     transform: rotate(90deg);
     box-shadow: 1px 1px 1px rgba(255, 255, 255, 0.5);
+}
+
+.secHand{
+    height: 1px;
+    width: 25vw;
+}
+
+.minHand{
+    height: 2px;
+    width: 22vw;
+    left: 3vw;
+}
+
+.hourHand{
+    height: 3px;
+    width: 18vw;
+    left: 7vw;
 }
