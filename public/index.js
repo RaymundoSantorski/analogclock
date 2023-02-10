@@ -9,7 +9,7 @@ let setTime = () => {
     let hours = now.getHours();
     let secsDeg =  (6 * secs) + 90;
     let minsDeg = (6 * mins) + 90;
-    let hoursDeg = (15 * hours);
+    let hoursDeg = (15 * hours) + 90;
     secHand.style.transform = `rotate(${secsDeg}deg)`;
     minHand.style.transform = `rotate(${minsDeg}deg)`;
     hourHand.style.transform = `rotate(${hoursDeg}deg)`;
