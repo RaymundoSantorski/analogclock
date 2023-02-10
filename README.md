@@ -1,6 +1,6 @@
 # **Analog Clock**
 
-Reloj digital hecho unicamente con html, css y javascript
+## Reloj digital hecho unicamente con html, css y javascript
 
 - Se utilizan estilos ligeramente distintos en las manecillas para distinguir segundos, minutos y horas
     - La manecilla más delgada y larga se usa para representar los segundos
