@@ -9,4 +9,6 @@
 - Utiliza un formato de 12 horas 
 - La animación de las manecillas fluye completamente y no tiene saltos inesperados (e.g. al llegar a 60 segundos no se regresa la animación)
 
+Puedes ver el resultado [aqui](https://raymundosantorski.github.io/analogclock/).
+
 ![Screenshot de muestra](./public/screenshot.png)
